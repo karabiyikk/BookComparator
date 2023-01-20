@@ -1,5 +1,3 @@
-package KitapSiralayici;
-
 import java.util.Comparator;
 
 public class Book implements Comparator<Book> {
